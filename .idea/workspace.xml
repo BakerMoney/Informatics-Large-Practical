@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e22a57f-126a-4f21-a67f-422fb0595211" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/ac/ed/inf/App.java" afterDir="false" />
+    <list default="true" id="1e22a57f-126a-4f21-a67f-422fb0595211" name="Changes" comment="initil commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +64,7 @@
       <recent name="C:\Users\Neilas\Desktop\desktoppp\Java Projects\pizzatime" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest.testSystem3">
+  <component name="RunManager" selected="JUnit.uk.ac.ed.inf in PizzaDronz">
     <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="uk.ac.ed.inf.App" />
       <module name="PizzaDronz" />
@@ -132,21 +126,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreditCardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PizzaDronz" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="uk.ac.ed.inf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="uk.ac.ed.inf" />
-      <option name="MAIN_CLASS_NAME" value="uk.ac.ed.inf.CreditCardTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CreditCardTest.testCardNumberValidation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PizzaDronz" />
       <extension name="coverage">
@@ -163,21 +142,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="uk.ac.ed.inf in PizzaDronz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PizzaDronz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.ed.inf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.ac.ed.inf" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.uk.ac.ed.inf in PizzaDronz" />
       <item itemvalue="JUnit.AppTest" />
       <item itemvalue="JUnit.AppTest.testSystem1" />
       <item itemvalue="JUnit.AppTest.testSystem3" />
-      <item itemvalue="JUnit.CreditCardTest" />
       <item itemvalue="JUnit.CreditCardTest.testCardNumberValidation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.uk.ac.ed.inf in PizzaDronz" />
         <item itemvalue="JUnit.AppTest.testSystem3" />
         <item itemvalue="JUnit.AppTest" />
         <item itemvalue="JUnit.AppTest.testSystem1" />
         <item itemvalue="JUnit.CreditCardTest.testCardNumberValidation" />
-        <item itemvalue="JUnit.CreditCardTest" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +185,14 @@
       <workItem from="1670545842748" duration="11104000" />
       <workItem from="1670559299655" duration="10790000" />
     </task>
+    <task id="LOCAL-00001" summary="initil commit">
+      <created>1675388443170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675388443170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +208,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initil commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initil commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -247,5 +252,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pizzatime$uk_ac_ed_inf_in_PizzaDronz.ic" NAME="uk.ac.ed.inf in PizzaDronz Coverage Results" MODIFIED="1675393248057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>uk.ac.ed.inf.*</FILTER>
+    </SUITE>
   </component>
 </project>
